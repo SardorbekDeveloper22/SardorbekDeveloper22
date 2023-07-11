@@ -5,8 +5,11 @@
 
 - 🌱 I’m currently learning **Django,DRF,PostgreSql,RabbitMQ,Celery**
 
-- 👨‍💻 All of my projects are available at [https://elteam.uz](https://elteam.uz)
-[https://goodreads22.pythonanywhere.com](https://goodreads22.pythonanywhere.com)[https://newsfeed22.pythonanywhere.com](https://newsfeed22.pythonanywhere.com)[https://iterrors.pythonanywhere.com](https://iterrors.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at
+ [https://elteam.uz](https://elteam.uz)
+ [https://goodreads22.pythonanywhere.com](https://goodreads22.pythonanywhere.com)
+ [https://newsfeed22.pythonanywhere.com](https://newsfeed22.pythonanywhere.com)
+ [https://iterrors.pythonanywhere.com](https://iterrors.pythonanywhere.com)
 - 💬 Ask me about **Html,Css,JavaScript,Bootstrap,Django,DRF,PostgreSql,Aiogram**
 
 - 📫 How to reach me **sardorbekqozoqov2281@gmail.com**
