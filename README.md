@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at
   
- [https://elteam.uz](https://elteam.uz)
+   [https://elteam.uz](https://elteam.uz)
  
- [https://goodreads22.pythonanywhere.com](https://goodreads22.pythonanywhere.com)
+   [https://goodreads22.pythonanywhere.com](https://goodreads22.pythonanywhere.com)
  
- [https://newsfeed22.pythonanywhere.com](https://newsfeed22.pythonanywhere.com)
+   [https://newsfeed22.pythonanywhere.com](https://newsfeed22.pythonanywhere.com)
  
- [https://iterrors.pythonanywhere.com](https://iterrors.pythonanywhere.com)
+   [https://iterrors.pythonanywhere.com](https://iterrors.pythonanywhere.com)
  
 - 💬 Ask me about **Html,Css,JavaScript,Bootstrap,Django,DRF,PostgreSql,Aiogram**
 
