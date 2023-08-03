@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Elcom](https://elteam.uz)
 
-- 🌱 I’m currently learning **Django,DRF,PostgreSql,RabbitMQ,Celery**
+- 🌱 I’m currently learning **advanced(Django,DRF,PostgreSql) and RabbitMQ,Celery**
 
 - 👨‍💻 All of my projects are available at
   
