@@ -1,6 +1,6 @@
-# Salom, Men Sizga Men Haqimda
+# Salom, Men Haqimda
 
-Men dasturlashga qiziqadigan va yaratishga o'zimni beradigan insonman. Men quydagi texnologiyalarni bilaman:
+Men dasturlashga qiziqadigan va ajoyib loyihalarda qatnashish istagi kuchli dasturchiman. Men quydagi texnologiyalarni bilaman:
 
 - HTML
 - CSS
@@ -15,9 +15,9 @@ Men dasturlashga qiziqadigan va yaratishga o'zimni beradigan insonman. Men quyda
 - GitHub
 - Git
 
-Ishlab chiqishga tayyorgarlikni o'zimni bilimlarim va tajriba orqali oshiramiz, va meni ishga olishi mumkin kompaniyalarga yaxshi va samarali yordam berishga tayyorman.
+Meni ishga olishi mumkin kompaniyalarga yaxshi va samarali yordam berishga tayyorman.
 
-## Men Bilimlarim Bilan Ishtiroq
+## Men Bilimlarim Bilan Tanishing
 
 Men quyidagi texnologiyalarda tajribaga egaman:
 
@@ -31,9 +31,10 @@ Men ishni sevganman va yangi texnologiyalarni o'rganishni yaxshi ko'raman. Ishla
 
 ## Meni Ishga Olish
 
-Sizni kompaniya jamoatchiligizga qo'shishimni istaysizmi? Agar ha, men bilimlarimni va tajribami ish tajribasiga aylantirishni istardim. Men bilimlarim va yaratishqo'yimim bilan sizning kompaniyangizga qanday qo'shilishimni muzokaralashishni istaysizmi? Mening bilan bog'laning:
+Sizni kompaniya jamoatchiligingizga qo'shilishimni istaysizmi? Agar ha bo'lsa. Suxbat uchun men bilan bog'laning
+Men bilan bog'lanish:
 
-[GitHub](https://github.com/sizning-github-nomiz)
-[LinkedIn](https://www.linkedin.com/in/sizning-linkedin-profil-nomiz)
+[GitHub](https://github.com/SardorbekDeveloper22/)
+[LinkedIn](https://www.linkedin.com/in/sardorbekdev/)
 
-Men bilan suhbatlashishni va ish haqida muzokaralashishni sabr-qilaman. Yaxshi kunlarni kutib qolaman!
+Men bilan suhbatlashishni va ish haqida muzokaralashishni kutib qolaman. Yaxshi kunlarni kutib qolaman!
