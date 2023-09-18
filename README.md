@@ -1,4 +1,4 @@
-# Salom, Men Haqimda
+# Salom. Men haqimda
 
 Men dasturlashga qiziqadigan va ajoyib loyihalarda qatnashish istagi kuchli dasturchiman. Men quydagi texnologiyalarni bilaman:
 
@@ -17,7 +17,7 @@ Men dasturlashga qiziqadigan va ajoyib loyihalarda qatnashish istagi kuchli dast
 
 Meni ishga olishi mumkin kompaniyalarga yaxshi va samarali yordam berishga tayyorman.
 
-## Men Bilimlarim Bilan Tanishing
+## Meni Bilimlarim Bilan Tanishing
 
 Men quyidagi texnologiyalarda tajribaga egaman:
 
@@ -27,14 +27,15 @@ Men quyidagi texnologiyalarda tajribaga egaman:
 - Telegram botlar yaratish: aiogram
 - Versiyon nazorati: Git, GitHub
 
-Men ishni sevganman va yangi texnologiyalarni o'rganishni yaxshi ko'raman. Ishlab chiqarish va jamoatchilikda ish qilishni sevaman.
+Men ishimni sevganman va yangi texnologiyalarni o'rganishni yaxshi ko'raman. Ishlab chiqarish va jamoa bo'lib ish qilishni sevaman.
 
-## Meni Ishga Olish
+## Ishga Olish
 
 Sizni kompaniya jamoatchiligingizga qo'shilishimni istaysizmi? Agar ha bo'lsa. Suxbat uchun men bilan bog'laning
 Men bilan bog'lanish:
 
 [GitHub](https://github.com/SardorbekDeveloper22/)
 [LinkedIn](https://www.linkedin.com/in/sardorbekdev/)
+[Telegram](https://t.me/Sardorbek_developer)
 
-Men bilan suhbatlashishni va ish haqida muzokaralashishni kutib qolaman. Yaxshi kunlarni kutib qolaman!
+Men bilan suhbatlashishingizni va ish haqida muzokaralashishni kutib qolaman. Men yaxshi kunlarni kutib qolaman!
