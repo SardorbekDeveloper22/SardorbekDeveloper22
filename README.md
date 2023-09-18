@@ -22,7 +22,7 @@ Meni ishga olishi mumkin kompaniyalarga yaxshi va samarali yordam berishga tayyo
 Men quyidagi texnologiyalarda tajribaga egaman:
 
 - Front-end: HTML, CSS, JavaScript, Bootstrap
-- Back-end: Python, Django, Django REST Framework, FastAPI
+- Back-end: Python, Django
 - Ma'lumotlar bazalari: PostgreSQL
 - Telegram botlar yaratish: aiogram
 - Versiyon nazorati: Git, GitHub
